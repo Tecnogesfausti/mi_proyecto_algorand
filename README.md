@@ -1,4 +1,18 @@
 # mi_proyecto_algorand
+
+
+#github
+source venv/bin/activate
+.\venv\Scripts\activate
+git status
+git add .
+git commit -m "Descripción de los cambios realizados"
+git push origin main
+
+1.- tener una sshkey en github
+
+
+# codigo pruebas
 Pruebas de envio de tokens
 En Algorand vamos con 25 palabras aunque Pera me  invita a usar un formato nuevo (24 palabras)
 al final con el el SDK no consigo trabajar con la private_key
