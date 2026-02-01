@@ -1,5 +1,4 @@
 from algosdk import account, mnemonic
-
 # Leer mnemonic desde archivo local
 with open("mnemonic.txt", "r") as f:
     ALGO_MNEMONIC = f.read().strip()
