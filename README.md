@@ -35,3 +35,10 @@ Ejemplos:
 y ya puedo pasar FaustiCoins
 o lo que quiera hacer.
 
+#autocontenido
+Crear una AppImage visual con una estructura ModelView y que conecte con el SDK
+LA idea es ir añadiendo funciones de assets, saldo, etc.
+EL problema es que la cuenta creada en Pera Wallet debe tener el formato legacy
+de 25 palabras.
+La solucion. Crear una que sera la que 'hable' con otras cuentas.
+

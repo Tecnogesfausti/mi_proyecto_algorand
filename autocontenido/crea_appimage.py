@@ -10,7 +10,10 @@ APPDIR = "MyWallet.AppDir"
 BIN_NAME = "AlgorandWallet"
 ENTRYPOINT = "main.py"
 ICON_FILE = "bitcoin.png"
-APPIMAGETOOL = "./appimagetool-x86_64.AppImage"
+#descargala del github.
+# https://github.com/AppImage/appimagetool/releases/download/1.9.1/appimagetool-x86_64.AppImage
+# y copiala den el dir. sup.
+APPIMAGETOOL = "../appimagetool-x86_64.AppImage"
 # ---------------------------------------
 
 
