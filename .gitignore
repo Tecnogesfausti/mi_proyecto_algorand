@@ -11,6 +11,6 @@ keys.json
 *.key
 mnemonic.txt
 .env
-
+.AppImage
 # Logs o archivos temporales
 *.log

@@ -1,5 +1,9 @@
 # mi_proyecto_algorand
-
+# Creelo en GitHub
+git remote add origin git@github.com:TecnogesFauti/Algorand-Project.git
+git remote -v
+git add .
+etc...
 
 #github
 source venv/bin/activate
@@ -8,6 +12,7 @@ git status
 git add .
 git commit -m "Descripción de los cambios realizados"
 git push origin main
+(con git status vas viendo lo que debes hacer...)
 
 1.- tener una sshkey en github
 
